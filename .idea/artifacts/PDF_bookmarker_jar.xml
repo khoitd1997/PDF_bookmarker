@@ -2,6 +2,9 @@
   <artifact type="jar" name="PDF_bookmarker:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/PDF_bookmarker_jar</output-path>
     <root id="archive" name="PDF_bookmarker.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
       <element id="module-output" name="PDF_bookmarker" />
       <element id="extracted-dir" path="$PROJECT_DIR$/pdfBox_Jar/pdfbox-2.0.9.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/pdfBox_Jar/xmpbox-2.0.9.jar" path-in-jar="/" />

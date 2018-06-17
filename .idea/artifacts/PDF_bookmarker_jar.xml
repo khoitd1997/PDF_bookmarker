@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PDF_bookmarker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PDF_bookmarker_jar</output-path>
+    <root id="archive" name="PDF_bookmarker.jar">
+      <element id="module-output" name="PDF_bookmarker" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/pdfBox_Jar/pdfbox-2.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/pdfBox_Jar/xmpbox-2.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/pdfBox_Jar/fontbox-2.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/pdfBox_Jar/preflight-2.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/pdfBox_Jar/pdfbox-tools-2.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox-tools/2.0.0/pdfbox-tools-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/pdfbox/fontbox/2.0.0/fontbox-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/2.0.1/pdfbox-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/pdfbox/xmpbox/2.0.0/xmpbox-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/pdfbox/preflight/2.0.0/preflight-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox-debugger/2.0.0/pdfbox-debugger-2.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/pdfbox/jempbox/1.8.11/jempbox-1.8.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
